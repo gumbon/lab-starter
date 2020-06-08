@@ -8,7 +8,7 @@ If there are concepts that should be described separately, they might belong in 
 
 ## Step X: Description
 
-Here, we'll describe generally what the user is about to do.
+My desription
 
 ### :keyboard: Activity: Specific description
 
